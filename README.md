@@ -1,5 +1,5 @@
 # dogdev
 
-Projeto desenvolvido para a universidade Univesp, com o objetivo de desenvolver uma loja pet.
+Projeto desenvolvido para o curso B7web, com o objetivo de desenvolver uma loja pet.
 
 Acesso: https://mipfranco.github.io/dogdev/
